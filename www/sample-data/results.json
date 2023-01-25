@@ -1,0 +1,218 @@
+[ { "skus": [
+      { "qty": 1, "sku": "25VNA424A003" }, 
+      { "qty": 1, "sku": "CSPHP4812ALA" }, 
+      { "qty": 1, "sku": "58TN0A070C17--16" }
+    ], 
+    "components": [
+      { "title": "25VNA424A003", "description": "25VNA424A003", "componentType": "Outdoor unit" }, 
+      { "title": "CSPHP4812ALA", "description": "CSPHP4812ALA", "componentType": "Indoor unit" }, 
+      { "title": "58TN0A070C17--16", "description": "58TN0A070C17--16", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 14.00, "HSPF": 11.00, "SEER": 21.00, "HCap17": 24200, "HCap47": 24000, "AHRIRef": "206788532", "coolingCapacity": 23400, "electricalPhase": 1 },
+      { "AFUE": 80.0, "AHRIRef": "203358828", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 66000, "mobileHome": "No", "outputBTUH": 53000, "configurations": "Downflow, Horizontal, Upflow" }
+    ],
+    "availableRebates": [],
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA424A003" }, 
+      { "qty": 1, "sku": "CSPHP4812ALA" }, 
+      { "qty": 1, "sku": "59TN6B060C17--14" }
+    ],
+    "components": [
+      { "title": "25VNA424A003", "description": "25VNA424A003", "componentType": "Outdoor unit" }, 
+      { "title": "CSPHP4812ALA", "description": "CSPHP4812ALA", "componentType": "Indoor unit" }, 
+      { "title": "59TN6B060C17--14", "description": "59TN6B060C17--14", "componentType": "Furnace" }
+    ], 
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 14.00, "HSPF": 11.00, "SEER": 21.00, "HCap17": 24400, "HCap47": 24000, "AHRIRef": "206788536", "coolingCapacity": 23400, "electricalPhase": 1 }, 
+      { "AFUE": 95.0, "AHRIRef": "203359298", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Downflow" }
+    ],
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA424A003" }, 
+      { "qty": 1, "sku": "CAPMP3617ALA" }, 
+      { "qty": 1, "sku": "59TN6B060C17--14" }
+    ], 
+    "components": [
+      { "title": "25VNA424A003", "description": "25VNA424A003", "componentType": "Outdoor unit" }, 
+      { "title": "CAPMP3617ALA", "description": "CAPMP3617ALA", "componentType": "Indoor unit" }, 
+      { "title": "59TN6B060C17--14", "description": "59TN6B060C17--14", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 14.00, "HSPF": 11.00, "SEER": 21.00, "HCap17": 24600, "HCap47": 24000, "AHRIRef": "206788449", "coolingCapacity": 23400, "electricalPhase": 1 }, 
+      { "AFUE": 96.3, "AHRIRef": "203359293", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Horizontal, Upflow" }
+    ],
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA424A003" },
+      { "qty": 1, "sku": "CNPVP3617ALA" }, 
+      { "qty": 1, "sku": "58TN0A070C14--12" }
+    ],
+    "components": [
+      { "title": "25VNA424A003", "description": "25VNA424A003", "componentType": "Outdoor unit" }, 
+      { "title": "CNPVP3617ALA", "description": "CNPVP3617ALA", "componentType": "Indoor unit" }, 
+      { "title": "58TN0A070C14--12", "description": "58TN0A070C14--12", "componentType": "Furnace" }
+    ], 
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 14.00, "HSPF": 11.00, "SEER": 22.00, "HCap17": 24400, "HCap47": 24000, "AHRIRef": "206788374", "coolingCapacity": 23400, "electricalPhase": 1 }, 
+      { "AFUE": 80.0, "AHRIRef": "203358827", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 66000, "mobileHome": "No", "outputBTUH": 54000, "configurations": "Downflow, Horizontal, Upflow" }
+    ],
+    "availableRebates": [],
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA825A003" }, 
+      { "qty": 1, "sku": "CSPHP3612ALA" }, 
+      { "qty": 1, "sku": "59MN7B060C21--20" }
+    ], 
+    "components": [
+      { "title": "25VNA825A003", "description": "25VNA825A003", "componentType": "Outdoor unit" }, 
+      { "title": "CSPHP3612ALA", "description": "CSPHP3612ALA", "componentType": "Indoor unit" }, 
+      { "title": "59MN7B060C21--20", "description": "59MN7B060C21--20", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.50, "HSPF": 9.00, "SEER": 16.50, "HCap17": 21000, "HCap47": 21400, "AHRIRef": "206764465", "coolingCapacity": 24200, "electricalPhase": 1 }, 
+      { "AFUE": 98.5, "AHRIRef": "204032246", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 61000, "mobileHome": "No", "outputBTUH": 60000, "configurations": "Horizontal, Upflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA825A003" }, 
+      { "qty": 1, "sku": "CNPVP3621ALA" }, 
+      { "qty": 1, "sku": "59TN6B060C17--14" }
+    ], 
+    "components": [
+      { "title": "25VNA825A003", "description": "25VNA825A003", "componentType": "Outdoor unit" }, 
+      { "title": "CNPVP3621ALA", "description": "CNPVP3621ALA", "componentType": "Indoor unit" }, 
+      { "title": "59TN6B060C17--14", "description": "59TN6B060C17--14", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.00, "HSPF": 9.50, "SEER": 16.50, "HCap17": 20800, "HCap47": 21600, "AHRIRef": "206764398", "coolingCapacity": 23800, "electricalPhase": 1 }, 
+      { "AFUE": 96.3, "AHRIRef": "203359293", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Horizontal, Upflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA825A003" }, 
+      { "qty": 1, "sku": "CSPHP3612ALA" }, 
+      { "qty": 1, "sku": "59MN7B060C17--14" }
+    ], 
+    "components": [
+      { "title": "25VNA825A003", "description": "25VNA825A003", "componentType": "Outdoor unit" }, 
+      { "title": "CSPHP3612ALA", "description": "CSPHP3612ALA", "componentType": "Indoor unit" }, 
+      { "title": "59MN7B060C17--14", "description": "59MN7B060C17--14", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.00, "HSPF": 9.00, "SEER": 16.00, "HCap17": 21000, "HCap47": 21400, "AHRIRef": "206764455", "coolingCapacity": 24200, "electricalPhase": 1 },
+      { "AFUE": 95.0, "AHRIRef": "204032251", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Downflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25VNA825A003" }, 
+      { "qty": 1, "sku": "CSPHP3012ALA" }, 
+      { "qty": 1, "sku": "59TN6B060C17--14" }
+    ], 
+    "components": [
+      { "title": "25VNA825A003", "description": "25VNA825A003", "componentType": "Outdoor unit" }, 
+      { "title": "CSPHP3012ALA", "description": "CSPHP3012ALA", "componentType": "Indoor unit" }, 
+      { "title": "59TN6B060C17--14", "description": "59TN6B060C17--14", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      {"EER": 11.00, "HSPF": 10.00, "SEER": 16.00, "HCap17": 21400, "HCap47": 21800, "AHRIRef": "206764433", "coolingCapacity": 24000, "electricalPhase": 1 }, 
+      {"AFUE": 96.3, "AHRIRef": "203359293", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Horizontal, Upflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25HBC524AP03" }, 
+      { "qty": 1, "sku": "CAPMP2414ALA" }, 
+      { "qty": 1, "sku": "59TP6B060V14--12" }
+    ],
+    "components": [
+      { "title": "25HBC524AP03", "description": "25HBC524AP03", "componentType": "Outdoor unit" }, 
+      { "title": "CAPMP2414ALA", "description": "CAPMP2414ALA", "componentType": "Indoor unit" }, 
+      { "title": "59TP6B060V14--12", "description": "59TP6B060V14--12", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.50, "HSPF": 8.50, "SEER": 14.00, "HCap17": 14300, "HCap47": 24000, "AHRIRef": "204840379", "coolingCapacity": 23400, "electricalPhase": 1 }, 
+      { "AFUE": 95.0, "AHRIRef": "203924810", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Horizontal, Upflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25HBC524AP03" }, 
+      { "qty": 1, "sku": "CAPMP2414ALA" }, 
+      { "qty": 1, "sku": "59SC5B060E14--12" }
+    ], 
+    "components": [
+      { "title": "25HBC524AP03", "description": "25HBC524AP03", "componentType": "Outdoor unit" }, 
+      { "title": "CAPMP2414ALA", "description": "CAPMP2414ALA", "componentType": "Indoor unit" }, 
+      { "title": "59SC5B060E14--12", "description": "59SC5B060E14--12", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.50, "HSPF": 8.50, "SEER": 14.00, "HCap17": 14300, "HCap47": 24000, "AHRIRef": "204840375", "coolingCapacity": 23400, "electricalPhase": 1 }, 
+      { "AFUE": 95.0, "AHRIRef": "203924686", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "Yes", "outputBTUH": 58000, "configurations": "Horizontal, Upflow" }
+    ],
+    "availableRebates": [],
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25HBC524AP03" }, 
+      { "qty": 1, "sku": "CAPMP3017ALA" }, 
+      { "qty": 1, "sku": "59SC5B060E14--12" }
+    ], 
+    "components": [
+      { "title": "25HBC524AP03", "description": "25HBC524AP03", "componentType": "Outdoor unit" }, 
+      { "title": "CAPMP3017ALA", "description": "CAPMP3017ALA", "componentType": "Indoor unit" }, 
+      { "title": "59SC5B060E14--12", "description": "59SC5B060E14--12", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.50, "HSPF": 8.50, "SEER": 15.00, "HCap17": 14300, "HCap47": 24000, "AHRIRef": "204840452", "coolingCapacity": 23600, "electricalPhase": 1 }, 
+      { "AFUE": 95.0, "AHRIRef": "203924688", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "No", "outputBTUH": 58000, "configurations": "Downflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  },
+  { "skus": [
+      { "qty": 1, "sku": "25HBC524AP03" }, 
+      { "qty": 1, "sku": "CAPMP3617ALA" }, 
+      { "qty": 1, "sku": "59SC5B060E14--12" }
+    ], 
+    "components": [
+      { "title": "25HBC524AP03", "description": "25HBC524AP03", "componentType": "Outdoor unit" }, 
+      { "title": "CAPMP3617ALA", "description": "CAPMP3617ALA", "componentType": "Indoor unit" }, 
+      { "title": "59SC5B060E14--12", "description": "59SC5B060E14--12", "componentType": "Furnace" }
+    ],
+    "configurationOptions": [],
+    "AHRIRatings": [
+      { "EER": 11.50, "HSPF": 8.50, "SEER": 15.00, "HCap17": 14400, "HCap47": 24000, "AHRIRef": "204840495", "coolingCapacity": 23800, "electricalPhase": 1 }, 
+      { "AFUE": 95.0, "AHRIRef": "203924687", "fuelTypes": "Natural Gas, Propane Gas", "inputBTUH": 60000, "mobileHome": "Yes", "outputBTUH": 58000, "configurations": "Downflow" }
+    ], 
+    "availableRebates": [], 
+    "availableRebateAmount": 0.0
+  }
+]
+
