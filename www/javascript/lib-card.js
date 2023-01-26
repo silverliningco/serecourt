@@ -68,7 +68,7 @@ function card(myRows) {
 
         //
         let myHandlers = [];
-        myHandlers[change] = function(e) {
+        myHandlers["change"] = function(e) {
             let newBestRow = bestRow(myRows, mySelections);
             return card(myRows, newBestRow);
         }

@@ -10,22 +10,27 @@
 <body>
 
     <!--- Card template. -->
-    <div data-forty-one-role="template">
+    <div data-forty-one-role="template" id="card-template">
         <div data-forty-one-role="components">
             <div data-forty-one-role="template">
-                <label data-forty-one-role="template"><label>
-                <select></select>
+                <label data-forty-one-role="componentType"><label>
+                <select data-forty-one-role="title"></select>
             </div>
         </div>
-        <div>EER, SEER, ...</div>
+        <div>
+            <div>Cooling capacity: <span data-forty-one-role="coolingCapacity"></span></div>
+            <div>SEER: <span data-forty-one-role="SEER"></span></div>
+            <div>EER: <span data-forty-one-role="EER"></span></div>
+        </div>
         <button>Table view</button>
     </div>
 
-<!--- -->
-<script src="..."></script>
 
 <!--- -->
-<script src="..."></script>
+<script src="/javascript/lib-card.js"></script>
+
+<!--- -->
+<script src="/javascript/hvac-system-ratings-and-rebates.js"></script>
 
 </body>
 
