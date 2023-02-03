@@ -1,0 +1,174 @@
+/*-- General Variables --*/
+:root {
+    --primary-color:#074D96;
+    --accent-color:#E68A00;
+    --primary-light-color:#3278C0;
+    --accent-light-color:#FFBC59;
+    --primary-dark-color:#032F5C;
+    --accent-dark-color:#AD6800;
+    --warn-color: #B71C1C;
+    --color-text:#101010;
+    --color-light-text:#606060;
+}
+@media (min-width: 1400px){
+    :root {
+        --nkn-width-container: 1320px;
+    }
+}
+h1, h2, h3, h4, h5, .bitter-font{
+    font-family: 'Bitter', serif;
+    color: var(--color-text);
+}
+body, p, .montserrat-font{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--color-text);
+    font-size: 14px;
+}
+
+/*Background and Text color styles*/
+.bg-primary-color{ background-color: var(--primary-color) !important;}
+
+/*-- General Styles --*/
+.mb-0, .my-0{
+    margin-bottom: 0!important;
+}
+.mt-0, .my-0{
+    margin-top: 0!important;
+}
+p{
+    margin: .5rem 0;
+}
+.list-unlisted{
+    list-style: none;
+    padding-inline-start: .5rem;
+}
+.small{
+    font-size: 80%;
+}
+
+/*-- Page styles --*/
+header{
+    box-shadow: 2px 4px 6px #00000012;
+}
+
+/*-- Card Styles --*/
+.card {
+    border-radius: 4px;
+    padding: 1.5rem;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.15);
+}
+.card .nkn-label-middle{
+    font-weight: 500;
+    line-height: 12px;
+    font-size: 80%;
+    color: #b3b3b3;
+}
+.rc-subtitle {
+    position: relative;
+}
+.rc-subtitle .icon {
+    position: absolute;
+    z-index: -1;
+    color: var(--accent-light-color);
+    left: -8px;
+    background-color: white;
+    border-radius: 50%;
+    opacity: 0.5;
+    top: -12px;
+}
+.icon-3x {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+.rc-subtitle h4{
+    margin-left: 10px;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.results .nkn-table thead th{
+    background-color: var(--primary-color) !important;
+    color: white;
+}
+
+/* Rebates in Card */
+.rebates{
+    background-color: rgba(255, 160, 0, 0.1);
+    padding: 0.5rem;
+}
+.list{
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid rgba(255, 160, 0, 0.2);
+}
+.rebates .list li{
+    display: flex;
+    align-items: center;
+}
+.rebates .list li .nkn-icon{
+    color: green;
+    min-width: 1.5rem;
+}
+.amount{
+    padding-top: 1.25rem;
+    text-align: center;
+}
+.amount h1{
+    color: var(--warn-color);
+}
+
+/* card body */
+.card-content {
+    display: flex;
+    align-items: stretch;
+}
+.card .rc-numbers{
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* card footer */
+.card .card-footer{
+    display: flex;    
+    align-items: center;
+    justify-content: end;
+    margin-top: 1rem;
+}
+
+/*Change Styles for inputs*/
+.card .nkn-select{
+    border: none;
+    border-bottom: solid 1px #bfbfbf;
+    border-radius: 0;
+    height: auto;    
+    padding: 0.25rem 0;
+}
+.card .nkn-select:focus-visible {
+    outline: none;
+    border-bottom: solid 1px var(--primary-color);
+}
+
+/*Butons*/
+.rc-btn{
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color:white;
+    font-weight: 500;
+}
+.rc-btn .nkn-icon {
+    height: 20px!important;
+    width: 20px!important;
+    margin-right: 5px;
+}
+.rc-btn.accent{
+    background-color: var(--accent-color);
+}
+.rc-btn.warn{
+    background-color: var(--warn-color);
+}
+.rc-btn.primary{
+    background-color: var(--primary-color);
+}

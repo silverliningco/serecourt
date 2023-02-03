@@ -189,134 +189,34 @@
                 </div>
             </div>
             <div class="nkn-col-m9 results">
-                <!--- Card template. -->
-                <!--<div data-forty-one-role="template" id="card-template">
-                    <div data-forty-one-role="components">
-                        <div data-forty-one-role="template">
-                            <label data-forty-one-role="componentType"><label>
-                            <select data-forty-one-role="title"></select>
-                        </div>
-                    </div>
-                    <div>
-                        <div>Cooling capacity: <span data-forty-one-role="coolingCapacity"></span></div>
-                        <div>SEER: <span data-forty-one-role="SEER"></span></div>
-                        <div>EER: <span data-forty-one-role="EER"></span></div>
-                    </div>
-                    <button>Table view</button>
-                </div>-->
-                <div class="card">
-                    <div class="card-header nkn-row-padding">
-                        <div class="nkn-col-m7">
-                            <div class="card-title">
-                                <div class="nkn-row-padding">
-                                    <div class="nkn-col-m12">
-                                        <h1 class="mb-0">INFINITY VARIABLE SPEED HP 24 SEER</h1>
-                                        <p>Outdoor Unit: <b>25VNA424A003</b></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card-subtitle">
-                                <div class="nkn-row-padding">
-                                    <div class="nkn-col-s12 nkn-mb-small">
-                                        <label class="nkn-label-middle" for="username">Indoor Unit:</label>
-                                        <select class="nkn-select" id="fossil-fuel">
-                                            <option value="" readonly>Selected one...</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                            <option value="CAPMP3017ALA">CAPMP3017ALA</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                        </select>
-                                    </div>
-                                    <div class="nkn-col-s12 nkn-mb-small">
-                                        <label class="nkn-label-middle" for="username">Furnace:</label>
-                                        <select class="nkn-select" id="fossil-fuel">
-                                            <option value="" readonly>Selected one...</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                            <option value="CAPMP3017ALA">CAPMP3017ALA</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                        </select>
-                                    </div>
-                                    <div class="nkn-col-s12 nkn-mb-small">
-                                        <label class="nkn-label-middle" for="username">Furnace Configuration:</label>
-                                        <select class="nkn-select" id="fossil-fuel">
-                                            <option value="" readonly>Selected one...</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                            <option value="CAPMP3017ALA">CAPMP3017ALA</option>
-                                            <option value="CAPMP2414ALA">CAPMP2414ALA</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nkn-col-m5">
-                            <div class="rebates">
-                                <div class="list">
-                                    <h5 class="my-0">Available Rebates</h5>
-                                    <ul class="list-unlisted">
-                                        <li>
-                                            <svg class="nkn-icon nkn-mr-small">
-                                                <use xlink:href="sprites/icons.svg#bill"></use>                
-                                            </svg>
-                                            ACUpgraid</li>
-                                        <li>
-                                            <svg class="nkn-icon nkn-mr-small">
-                                                <use xlink:href="sprites/icons.svg#bill"></use>                
-                                            </svg>
-                                            Mass Save Natural Gas Heating rebate</li>
-                                    </ul>
-                                </div>
-                                <div class="amount">
-                                    <h5 class="my-0">Rebates Up</h5>
-                                    <h1 class="my-0">$ 400.00</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <h4 class="nkn-mb-small nkn-ml-small">AHRI Ratings</h4>
-                    <div class="card-content nkn-row-padding">
-                        <div class="nkn-col-m6">
-                            <div class="rc-numbers">
-                                <p><b class="nkn-pr-small">EER: </b>11.5</p>
-                                <p><b class="nkn-pr-small">HSPF: </b>8.5</p>
-                                <p><b class="nkn-pr-small">SEER: </b>14</p>
-                                <p><b class="nkn-pr-small">HCap17: </b>14300</p>
-                                <p><b class="nkn-pr-small">HCap47: </b>24000</p>
-                                <p><b class="nkn-pr-small">AHRIRef: </b>204840375</p>
-                                <p><b class="nkn-pr-small">coolingCapacity: </b>23400</p>
-                                <p><b class="nkn-pr-small">electricalPhase: </b>1</p>
-                            </div>
-                        </div>
-                        <div class="nkn-col-m6 rc-numbers">
-                            <p><b class="nkn-pr-small">AFUE: </b>95</p>
-                            <p><b class="nkn-pr-small">AHRIRef: </b>203924686</p>
-                            <p><b class="nkn-pr-small">fuelTypes: </b>Natural Gas, Propane Gas</p>
-                            <p><b class="nkn-pr-small">inputBTUH: </b>60000</p>
-                            <p><b class="nkn-pr-small">mobileHome: </b>Yes</p>
-                            <p><b class="nkn-pr-small">outputBTUH: </b>58000</p>
-                            <p><b class="nkn-pr-small">configurations: </b>Horizontal, Upflow</p>
-                        </div>
-
-                    </div>
-                    <div class="card-footer">
-                        <button class="nkn-button nkn-mr-small rc-btn accent">
-                            <svg class="nkn-icon icon-3x">
-                                <use xlink:href="sprites/icons.svg#table"></use>
-                            </svg> 
-                        View in table
-                    </button>
-                        <button class="nkn-button nkn-mr-small rc-btn warn">
-                            <svg class="nkn-icon icon-3x">
-                                <use xlink:href="sprites/icons.svg#search"></use>                
-                            </svg> 
-                            View Detail
-                        </button>
-                        <button class="nkn-button rc-btn primary">
-                            <svg class="nkn-icon icon-3x">
-                                <use xlink:href="sprites/icons.svg#add"></use>                
-                            </svg> 
-                            add to card
-                        </button>
-                    </div>
-                </div>
+                <!--- Table Results. -->
+                <table class="nkn-table nkn-vertical">
+                    <thead>
+                        <tr class="bg-primary-color">
+                            <th>Posición</th>
+                            <th>Lenguaje de Programación</th>
+                            <th>Rating (%)</th>
+                        </tr>
+                    </thead>
+                
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Java</td>
+                            <td>17.358%</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>C</td>
+                            <td>16.766%</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Python</td>
+                            <td>9.345%</td>
+                        </tr>                      
+                    </tbody>
+                </table>
 
             </div>
        </div>
